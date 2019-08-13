@@ -19,7 +19,7 @@ export const Container = styled.div`
       background: #eee;
     }
 
-    input: {
+    input {
       display: none;
     }
   }

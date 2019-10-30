@@ -1,6 +1,6 @@
 # Go Barber
 
-### Aplication developed in ReactJS to show Appointments for the Barber Shop
+### Application developed in ReactJS to show Appointments for the Barber Shop
 
 <p align="center">
 <img src="src/assets/GitHub/SignIn.png" height="491" width="1000" alt="SignIn"/> </br>
